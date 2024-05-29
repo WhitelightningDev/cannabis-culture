@@ -2,7 +2,7 @@
   "name": "cannabis-culture",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WhitelightningDev.github.io/cannabis-culture",
+  "homepage": "https://github.com/WhitelightningDev/cannabis-culture.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
