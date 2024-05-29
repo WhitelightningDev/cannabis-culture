@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/WhitelightningDev/cannabis-culture.git/static/css/main.ff02f4b5.css",
+    "main.js": "/WhitelightningDev/cannabis-culture.git/static/js/main.f903c81c.js",
+    "static/js/453.83859a28.chunk.js": "/WhitelightningDev/cannabis-culture.git/static/js/453.83859a28.chunk.js",
+    "static/media/marijuana.png": "/WhitelightningDev/cannabis-culture.git/static/media/marijuana.26de38a7025aee6d67a6.png",
+    "static/media/brain-2.png": "/WhitelightningDev/cannabis-culture.git/static/media/brain-2.1bf8a0b38fb3474c52ac.png",
+    "static/media/cbd.png": "/WhitelightningDev/cannabis-culture.git/static/media/cbd.eac61ba80a4afea58bc8.png",
+    "static/media/thc.png": "/WhitelightningDev/cannabis-culture.git/static/media/thc.4a9b5c01f8a363bc33bc.png",
+    "static/media/220px-Delta-9-tetrahydrocannabinol-from-tosylate-xtal-3D-balls.png": "/WhitelightningDev/cannabis-culture.git/static/media/220px-Delta-9-tetrahydrocannabinol-from-tosylate-xtal-3D-balls.a936164e27c410e4f7d7.png",
+    "index.html": "/WhitelightningDev/cannabis-culture.git/index.html",
+    "main.ff02f4b5.css.map": "/WhitelightningDev/cannabis-culture.git/static/css/main.ff02f4b5.css.map",
+    "main.f903c81c.js.map": "/WhitelightningDev/cannabis-culture.git/static/js/main.f903c81c.js.map",
+    "453.83859a28.chunk.js.map": "/WhitelightningDev/cannabis-culture.git/static/js/453.83859a28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.f903c81c.js"
+  ]
+}
